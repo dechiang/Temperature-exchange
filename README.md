@@ -1,1 +1,1 @@
-# Temperature-exchange
+# Temperature-exchange, celsius to fahrenheit
